@@ -82,7 +82,7 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  치킨집-2        | [java-calculator](https://github.com/khb1109/java-chicken-2020)| [Pull Request](https://github.com/woowacourse/java-chicken-2020/pull/5) |
+|  치킨집-2        | [java-chicken-2020](https://github.com/khb1109/java-chicken-2020)| [Pull Request](https://github.com/woowacourse/java-chicken-2020/pull/5) |
 
 
 <br/>
@@ -203,7 +203,7 @@
 - [알트 인터뷰](https://youtu.be/72kyQll-ezE)
 - [또링 인터뷰](https://youtu.be/6dVdEZ-YhT0)
 
-### 편집 
+### 편집
 - [오렌지의 브이로그](https://youtu.be/-wNPwne8jJk)
 - [임루트의 테코톡](https://youtu.be/-ZG8uX7mpuk)
 - [14층 녀석들의 1차 데모](https://youtu.be/XMETX19bo3o)
