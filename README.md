@@ -130,7 +130,7 @@
 
 ### 정리
 - [팀 프로젝트 데모 페이지](https://sites.google.com/woowahan.com/wooteco-demo/devbie)
-- [우아한테크코스 팀 프로젝트 회고](https://velog.io/@allen/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
+- [우아한테크코스 팀 프로젝트 회고(준비중)](https://velog.io/@allen/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
 
 <br/>
 
