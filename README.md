@@ -168,15 +168,18 @@
 
 ### 진행 미션
 
-- comming soon...
+|     Project      |                          Repository                          |                         Pull Request                         |
+| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  WAS / step1| [jwp-was](https://github.com/hongbin-dev/jwp-was/tree/allenyeji)| [Pull Request](https://github.com/woowacourse/jwp-was/pull/93) |
+|  WAS / step2| [jwp-was](https://github.com/hongbin-dev/jwp-was/tree/allenyeji2)| [Pull Request](https://github.com/woowacourse/jwp-was/pull/120) |
+|  WAS / step3| [jwp-was](https://github.com/hongbin-dev/jwp-was/tree/allenyeji3)| [Pull Request](https://github.com/woowacourse/jwp-was/pull/168) |
+|  WAS / step4| [jwp-was](https://github.com/hongbin-dev/jwp-was/tree/mission4)| [Pull Request](https://github.com/woowacourse/jwp-was/pull/180) |
+|  점진적 리팩터링 / step1 | [jwp-refactoring](https://github.com/hongbin-dev/jwp-refactoring/tree/allenyeji)| [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/13) |
+|  점진적 리팩터링 / step2 | [jwp-refactoring](https://github.com/hongbin-dev/jwp-refactoring/tree/mission2)| [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/52) |
+|  점진적 리팩터링 / step3 | [jwp-refactoring](https://github.com/hongbin-dev/jwp-refactoring/tree/mission3)| [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/88) |
 
-<br/>
 
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
-### 발표 주제 : 상속보다 Composition
-
-- [앨런의 상속보다는 Composition - Youtube](https://youtu.be/YJ4JJsGy8rY)
 
 <br/>
 
@@ -189,21 +192,8 @@
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/khb1109/woowa-writing-2/blob/level3/markdown/%EB%A0%88%EB%B2%A81.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/12) |
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/khb1109/woowa-writing-2/blob/level3/markdown/%EB%A0%88%EB%B2%A82.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/69) |
 |   3   |    팀 프로젝트가 나에게 남긴 것     |                       [woowa-writing-2/level3](https://github.com/khb1109/woowa-writing-2/blob/level3/markdown/%EB%A0%88%EB%B2%A83.md)                        |                      [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/120)                        |
-|   4   |       -       |                       comming soon...                        |                       comming soon...                        |
+|   4   |    내가 꿈꾸는 프로그래머     |                       [woowa-writing-2/level4](https://github.com/woowacourse/woowa-writing-2/blob/khb1109/markdown/%EB%A0%88%EB%B2%A84.md)                        |                      [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/212)                        |
+
 
 <br/>
 
-## 💪 우아한테크코스 기여 - 영상근로팀
-
-### 설명
-영상 근로팀에 활동하여 우아한테크코스를 영상을 통해 대외로 알린다.
-
-### 촬영
-- [앨런의 브이로그](https://youtu.be/gh8D550NlRc)
-- [알트 인터뷰](https://youtu.be/72kyQll-ezE)
-- [또링 인터뷰](https://youtu.be/6dVdEZ-YhT0)
-
-### 편집
-- [오렌지의 브이로그](https://youtu.be/-wNPwne8jJk)
-- [임루트의 테코톡](https://youtu.be/-ZG8uX7mpuk)
-- [14층 녀석들의 1차 데모](https://youtu.be/XMETX19bo3o)
